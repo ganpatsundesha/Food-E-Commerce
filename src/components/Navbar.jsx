@@ -1,6 +1,5 @@
 import React from 'react'
 import './navbar.css'
-import Menu from './menuApi'
 
 const Navbar = ({ filterItem, uniqueDta }) => {
     return (

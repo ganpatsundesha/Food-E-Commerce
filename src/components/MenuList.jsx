@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
-import './menulist.css'
-import Menu from './menuApi'
+import './menulist.css';
+import Menu from './menuApi';
 import MenuCard from './MenuCard';
-import Navbar from './Navbar'
+import Navbar from './Navbar';
 
 
 const uniqeCategory = [
