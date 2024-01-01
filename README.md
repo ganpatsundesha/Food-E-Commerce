@@ -12,5 +12,7 @@ Currently, two official plugins are available:
 . First Git clone this repo
 <br>
 . second: npm i
+<br>
 . Now npm run dev
+<br>
 . Now, You can set Your This at http://localhost:5173/
