@@ -16,7 +16,7 @@ const uniqeCategory = [
 
 const MenuList = () => {
     const [menuData, steMenuData] = useState(Menu);
-    const [uniqueDta, steUniqueDta] = useState(uniqeCategory);
+    const [uniqueData, steUniqueData] = useState(uniqeCategory);
 
     const filterItem = (category) => {
         if (category == "All") {
@@ -29,7 +29,7 @@ const MenuList = () => {
     }
     return (
         <>
-            <Navbar filterItem={filterItem} uniqueDta={uniqueDta} />
+            <Navbar filterItem={filterItem} uniqueData={uniqueData} />
             <MenuCard menuData={menuData} />
         </>
     )
