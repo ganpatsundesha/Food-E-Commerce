@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 
 ## How to Install in Your System
+. First Git clone this repo
+. second: npm i
+. Now npm run dev
+. Now, You can set Your This at http://localhost:5173/
