@@ -15,4 +15,4 @@ Currently, two official plugins are available:
 <br>
 . Now npm run dev
 <br>
-. Now, You can set Your This at http://localhost:5173/
+. Now, You can set This at: http://localhost:5173/
