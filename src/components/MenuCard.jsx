@@ -7,7 +7,7 @@ const MenuCard = ({ menuData }) => {
                 {
                     menuData.map((item, index) => {
 
-                        const { id, category, itemName, imageUrl, discription } = item
+                        const { category, itemName, imageUrl, discription } = item
 
                         return (
                             <div className='card-box' key={index}>
